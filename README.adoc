@@ -5,3 +5,5 @@ This repo contains content for use at http://gist.neo4j.org/.
 Testing this thing
 
   This is fun
+
+What does that symbol mean? Soon enough I would have to add some 'Cipher' in it
